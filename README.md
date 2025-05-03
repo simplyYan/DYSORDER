@@ -37,7 +37,7 @@ An authorial open-source collection of hacking tools. All the tools are light, f
                                 ########                                ######## 
                               ########                                    ########
                               ######                                        ###### 
-                              ##                                                ##                                                                                                   
+                              ##                                                ##
 ```
 
 ## How to install
