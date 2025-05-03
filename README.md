@@ -46,7 +46,9 @@ DYSØRDER is very easy to install and has no dependencies. It is dedicated to De
 2. Navigate to this folder via the terminal; <br>
 3. Run the command below: <br>
 ```sh
-echo "hello world"
+wget https://raw.githubusercontent.com/simplyYan/DYSORDER/refs/heads/main/download.sh
+chmod +x download.sh
+sudo ./download.sh
 ```
 5. That's it! All the DYSØRDER tools are installed. <br>
 
