@@ -1,7 +1,6 @@
 # DYSORDER
 An authorial open-source collection of hacking tools. All the tools are light, fast and powerful, developed with pure ShellScript, designed to be extremely easy to use.
 ```                                                                          
-                                                                                                              
                       ######                                                        ###### 
                       ######                                                        ###### 
                       ######                                                        ###### 
