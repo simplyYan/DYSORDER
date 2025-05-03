@@ -66,7 +66,7 @@ sudo ./download.sh
 
 
 ## Documentation
-All the tools have a help command, but if you want to delve deeper, go to the Wiki of this repository.
+All the tools have a help command, but if you want to delve deeper, go to the [Wiki of this repository](https://github.com/simplyYan/DYSORDER/wiki/Docs).
 
 ## License
 This repository/project and all the tools it offers are licensed under the GPL-3.0 (GNU GENERAL PUBLIC LICENSE). It is highly recommended to read before using/installing anything offered by this repository.
