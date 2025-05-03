@@ -71,8 +71,6 @@ All the tools have a help command, but if you want to delve deeper, go to the Wi
 ## License
 This repository/project and all the tools it offers are licensed under the GPL-3.0 (GNU GENERAL PUBLIC LICENSE). It is highly recommended to read before using/installing anything offered by this repository.
 
-> Another project developed and maintained by the legendary [@simplyYan](https://github.com/simplyYan)
-
 ## ⚠️ ATTENTION: The author of this project is not responsible for misuse (illegal or harmful actions)
 
 > Another project developed and maintained by the legendary [@simplyYan](https://github.com/simplyYan)
