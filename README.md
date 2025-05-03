@@ -1,43 +1,12 @@
-# DYSØRDER
-An authorial open-source collection of hacking tools. All the tools are light, fast and powerful, developed with pure ShellScript, designed to be extremely easy to use.
-```                                                                          
-                      ######                                                        ###### 
-                      ######                                                        ###### 
-                      ######                                                        ###### 
-                        ######                                                    ###### 
-                          @@####                                                ####..
-                            ######              ##            ##              ######
-                              ######        ######            ######        ######
-                                ######  ######                    ######  ######
-                                ####  ####                            ####  #### 
-                                  ####..##                            ##mm####
-                                ####  ######                        ######  ####
-                                ##  ##########                    ##########  ## 
-                              ##@@    ##########                ##########    ####
-                            ####        ##########            ##########        #### 
-                            ##            ########            ########            ## 
-                                            ########        ########   
-                                            ::########    ########   
-                                              ########  ########## 
-                                                ####  ##########  
-                                                    ########## 
-                                                    ######## 
-                                                  ########  .. 
-                                                ########    #### 
-                                              ##########  ######## 
-                                            ##########    ########## 
-                                          ##########        ########@@
-                                          ########            ########  
-                                        ########                ########
-                                      ########                    ######## 
-                                    ########                        ########
-                                  ##########                        ########## 
-                                mm########                            ########..  
-                                ########                                ######## 
-                              ########                                    ########
-                              ######                                        ###### 
-                              ##                                                ##
 ```
+    ______  _______ ____  ____  ____  __________ 
+   / __ \ \/ / ___// __ \/ __ \/ __ \/ ____/ __ \
+  / / / /\  /\__ \/ / / / /_/ / / / / __/ / /_/ /
+ / /_/ / / /___/ / /_/ / _, _/ /_/ / /___/ _, _/ 
+/_____/ /_//____/\____/_/ |_/_____/_____/_/ |_|  
+                                                 
+```
+An authorial open-source collection of hacking tools. All the tools are light, fast and powerful, developed with pure ShellScript, designed to be extremely easy to use.
 
 ## How to install
 DYSØRDER is very easy to install and has no dependencies. It is dedicated to Debian-based systems (such as PeppermintOS, Kali Linux, ParrotOS, and Tails), so it may not work very well on other distributions.
