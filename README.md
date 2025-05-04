@@ -11,7 +11,7 @@ An authorial open-source collection of hacking tools. All the tools are light, f
 ## How to install
 DYSØRDER is very easy to install and has no dependencies. It is dedicated to Debian-based systems (such as PeppermintOS, Kali Linux, ParrotOS, and Tails), so it may not work very well on other distributions.
 ### Step by step to install
-#### The DYSORDER tools were created in Windows. So, before running any files, use the command “dos2unix <file>”
+#### The DYSORDER tools were created in Windows. So, before running any files, use the command `dos2unix <file>`
 1. choose a folder (if you want the tools to be global, use the system root); <br>
 2. Navigate to this folder via the terminal; <br>
 3. Run the command below: <br>
