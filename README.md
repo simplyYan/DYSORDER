@@ -26,6 +26,7 @@ sudo ./download.sh
 1. MrChainsaw: Intelligent brute force for HTTP/HTTPS login
 2. MrSpecter: OSINT Recon Tool
 3. LowNet: Lightweight Wi-Fi attack automation tool
+4. NetDelusyon: Network Recon & Sniffing Tool
 
 ### The main features of DYSØRDER are:
 1. automated installation of dependencies (of which there are very few);
