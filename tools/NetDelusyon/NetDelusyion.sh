@@ -8,7 +8,7 @@
 red='\033[0;31m'; green='\033[0;32m'; blue='\033[1;34m'; reset='\033[0m'
 
 # Check dependencies
-deps=("ping" "ip" "awk" "grep" "tcpdump" "curl" "nmap" "arp-scan" "macchanger" "whois" "dig")
+deps=("ping" "ip" "awk" "grep" "tcpdump" "curl" "nmap" "arp-scan" "macchanger" "whois" "dig" "jq")
 for dep in "${deps[@]}"; do
     if ! command -v $dep &> /dev/null; then
         echo -e "${blue}[INFO] Installing missing dependency: $dep${reset}"
