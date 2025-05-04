@@ -5,7 +5,7 @@ cd DYSORDER
 
 declare -A files=(
   ["LowNet.sh"]="https://raw.githubusercontent.com/simplyYan/DYSORDER/refs/heads/main/tools/LowNet/LowNet.sh"
-  ["NetDelusyion.sh"]="https://raw.githubusercontent.com/simplyYan/DYSORDER/refs/heads/main/tools/NetDelusyion/NetDelusyion.sh"
+  ["NetDelusyon.sh"]="https://raw.githubusercontent.com/simplyYan/DYSORDER/refs/heads/main/tools/NetDelusyion/NetDelusyon.sh"
   ["mrchainsaw.sh"]="https://raw.githubusercontent.com/simplyYan/DYSORDER/refs/heads/main/tools/MrChainsaw/mrchainsaw.sh"
   ["MrSpecter.sh"]="https://raw.githubusercontent.com/simplyYan/DYSORDER/refs/heads/main/tools/MrSpecter/MrSpecter.sh"
 )
